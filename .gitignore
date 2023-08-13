@@ -1,0 +1,30 @@
+# Generated code
+
+
+# Tests coverage
+coverage
+.nyc_output
+
+# API keys and secrets
+.env
+
+# Editors
+.idea
+*.iml
+.vscode
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Dependency directory
+node_modules
+bower_components
+
+# Ignore built ts files
+
+
+#  Misc.
+*.local
+tsconfig.tsbuildinfo
+debug.log
