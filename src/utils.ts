@@ -196,7 +196,7 @@ namespace Utils {
 				 IMMUTABLE_SPLITS_DRIVER_LOGIC:  "0xF82c902F791445901598788e934E3B8189B5FC10",
 				 IMMUTABLE_SPLITS_DRIVER_ADMIN:  "0x840C1b6ce85bBFEbcFAd737514c0097B078a7E7E",
 				 IMMUTABLE_SPLITS_DRIVER_ID:     "2",
-				 SUBGRAPH_URL: 'https://api.studio.thegraph.com/query/50446/beaaam-mumbai/v0.0.6'
+				 SUBGRAPH_URL: 'https://api.studio.thegraph.com/query/50446/beaaam-mumbai/v0.0.8'
 			 },
 		};
 
